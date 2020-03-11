@@ -1,0 +1,19 @@
+{
+  "error": [],
+  "extra": [],
+  "data": {
+    "list": [
+      {
+        "banner_utm_term": "lecture16",
+        "banner_cover": "https://static001.geekbang.org/resource/image/16/17/16a27a5bec8f80c819bd57a250bf2b17.png",
+        "id": 7318,
+        "banner_title": "企业版升级",
+        "score": 401015036928,
+        "banner_redirect_type": "url",
+        "banner_redirect_param": "https://service.geekbang.org/article/183041/?utm_source=timeweb&utm_medium=leftbanner&utm_campaign=newintro"
+      }
+    ],
+    "page": { "count": 20, "more": false }
+  },
+  "code": 0
+}
