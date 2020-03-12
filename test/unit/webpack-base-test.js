@@ -9,3 +9,4 @@ describe('webpack.base.js test case', () => {
     assert.equal(baseConfig.entry.search.indexOf('webpack-ci/test/smoke/template/src/search/index.js') > -1, true);
   });
 });
+ 
